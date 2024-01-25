@@ -54,4 +54,4 @@ try {
 
 // Replace with your actual loading code
 // For example, wait for window load event
-window.addEventListener('load', hideOverlay);
+window.addEventListener('load');
